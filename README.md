@@ -1,6 +1,6 @@
 # Multi-level Part-aware Feature Disentangling for Text-based Person Search
 
-# Our code will be released when our paper is accepeted.
+## Our code will be released when our paper is accepeted.
 
 ### Performance of MPFD
 * Performance on CUHK-PEDES
